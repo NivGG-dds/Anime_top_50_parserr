@@ -22,3 +22,4 @@
 1. Установите зависимости:
    ```bash
    pip install requests beautifulsoup4 lxml
+# Создан исключительно как пример в учебных целях
